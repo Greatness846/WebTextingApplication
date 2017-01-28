@@ -1,0 +1,14 @@
+C:\Users\Andy\documents\visual studio 2010\Projects\PhoneChat\PhoneChat\bin\PhoneChat.dll
+C:\Users\Andy\documents\visual studio 2010\Projects\PhoneChat\PhoneChat\bin\PhoneChat.pdb
+C:\Users\Andy\documents\visual studio 2010\Projects\PhoneChat\PhoneChat\bin\PhoneChat.xml
+C:\Users\Andy\documents\visual studio 2010\Projects\PhoneChat\PhoneChat\obj\Debug\PhoneChat.Resources.resources
+C:\Users\Andy\documents\visual studio 2010\Projects\PhoneChat\PhoneChat\obj\Debug\PhoneChat.vbproj.GenerateResource.Cache
+C:\Users\Andy\documents\visual studio 2010\Projects\PhoneChat\PhoneChat\obj\Debug\PhoneChat.dll
+C:\Users\Andy\documents\visual studio 2010\Projects\PhoneChat\PhoneChat\obj\Debug\PhoneChat.xml
+C:\Users\Andy\documents\visual studio 2010\Projects\PhoneChat\PhoneChat\obj\Debug\PhoneChat.pdb
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PhoneChat\PhoneChat\bin\RestSharp.dll
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PhoneChat\PhoneChat\bin\Twilio.Api.dll
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PhoneChat\PhoneChat\bin\RestSharp.xml
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PhoneChat\PhoneChat\bin\Twilio.Api.pdb
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PhoneChat\PhoneChat\bin\Twilio.Api.xml
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\PhoneChat\PhoneChat\obj\Debug\PhoneChat.vbprojResolveAssemblyReference.cache
