@@ -6,8 +6,8 @@ Public Class MessageBoard
     Shared userClass As User
     Shared phoneChatDA As DataAccess
     Shared rowCount As Integer = 0
-    Shared accountSid As String = "AC9f9db7731450041d9ea7295ac5c6e20d"
-    Shared AuthToken As String = "88f28775a5fefdd668a68818398cb877"
+    Shared accountSid As String = ""
+    Shared AuthToken As String = ""
     Shared TwilioClass As New TwilioRestClient(accountSid, AuthToken)
     Shared IncMessage As New Twilio.Message
     Shared messageSidArr As New DataTable
